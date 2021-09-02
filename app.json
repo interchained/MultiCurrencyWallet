@@ -1,12 +1,12 @@
 {
-  "name": "swaponline mcw ",
+  "name": "electronero swap  ",
   "description": "multicurrencty mm bot",
-  "repository": "https://github.com/swaponline/MultiCurrencyWallet/",
-  "logo": "https://swaponline.github.io/assets/favicon.ico",
-  "keywords": ["wallet", "ethereum", "bitcoin", "crypto"],
+  "repository": "https://github.com/interchained/MultiCurrencyWallet/",
+  "logo": "https://electronero.org/favicon.ico",
+  "keywords": ["wallet", "ethereum", "bitcoin", "crypto", "electronero", "electronero pulse", "litenero", "goldnero", "crystaleum"],
   "env":{
     "SECRET_PHRASE": {
-      "description": "Your 12 words secret phrase (create new one on https://swaponline.io)",
+      "description": "Your 12 words secret phrase (create new one on https://swap.electronero.org)",
       "required": true
     },
     "SPREAD": {
