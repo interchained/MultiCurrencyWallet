@@ -26,6 +26,61 @@
       },
       "minAmount": 1
     },
+    "ETNX": {
+      "ERC20": {
+        "address": "0xfaedd9e155314bdae092749626b6b948707b1f58",
+        "decimals": "18"
+      },
+      "price": {
+        "source": "FIXED",
+        "price": 1
+      },
+      "minAmount": 1
+    },
+    "ETNXP": {
+      "ERC20": {
+        "address": "0xfaedd9e155314bdae092749626b6b948707b1f58",
+        "decimals": "18"
+      },
+      "price": {
+        "source": "FIXED",
+        "price": 1
+      },
+      "minAmount": 1
+    },
+    "LTNX": {
+      "ERC20": {
+        "address": "0xfaedd9e155314bdae092749626b6b948707b1f58",
+        "decimals": "18"
+      },
+      "price": {
+        "source": "FIXED",
+        "price": 1
+      },
+      "minAmount": 1
+    },
+    "GLDX": {
+      "ERC20": {
+        "address": "0xfaedd9e155314bdae092749626b6b948707b1f58",
+        "decimals": "18"
+      },
+      "price": {
+        "source": "FIXED",
+        "price": 1
+      },
+      "minAmount": 1
+    },
+    "CRFI": {
+      "ERC20": {
+        "address": "0xfaedd9e155314bdae092749626b6b948707b1f58",
+        "decimals": "18"
+      },
+      "price": {
+        "source": "FIXED",
+        "price": 1
+      },
+      "minAmount": 1
+    },
     "ETH": {
       "price": {
         "source": "API",
