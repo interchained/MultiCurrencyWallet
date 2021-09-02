@@ -5,6 +5,36 @@ export default {
     fullName: 'SWAP',
     canSwap: true,
   },
+  etnx: {
+    address: '0xfaedd9e155314bdae092749626b6b948707b1f58',
+    decimals: 18,
+    fullName: 'ETNX',
+    canSwap: true,
+  },
+  etnxp: {
+    address: '0xfaedd9e155314bdae092749626b6b948707b1f58',
+    decimals: 18,
+    fullName: 'ETNXP',
+    canSwap: true,
+  },
+  ltnx: {
+    address: '0xfaedd9e155314bdae092749626b6b948707b1f58',
+    decimals: 18,
+    fullName: 'LTNX',
+    canSwap: true,
+  },
+  gldx: {
+    address: '0xfaedd9e155314bdae092749626b6b948707b1f58',
+    decimals: 18,
+    fullName: 'GLDX',
+    canSwap: true,
+  },
+  crfi: {
+    address: '0xfaedd9e155314bdae092749626b6b948707b1f58',
+    decimals: 18,
+    fullName: 'CRFI',
+    canSwap: true,
+  },
   pay: {
     address: '0x1fe72034da777ef22533eaa6dd7cbe1d80be50fa',
     decimals: 18,
