@@ -1,10 +1,10 @@
 {
-  "name": "swap.online",
+  "name": "swap.electronero.org",
   "version": "1.0.421",
-  "description": "swaponline.io",
+  "description": "electronero.org",
   "keywords": [],
   "private": true,
-  "homepage": "https://swaponline.io",
+  "homepage": "https://electronero.org",
   "license": "MIT",
   "main": "./src/front/bin/server",
   "scripts": {
