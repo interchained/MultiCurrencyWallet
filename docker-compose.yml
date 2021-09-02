@@ -6,10 +6,10 @@ services:
     container_name: mcw_mainnet_bot
     restart: unless-stopped
     volumes:
-      - ${PWD}/config:/root/MulticurrencyWallet/config
-      - ${PWD}/.storage:/root/MulticurrencyWallet/.storage
-      - ${PWD}/config/tradeconfig.mainnet.json:/root/MultiCurrencyWallet/tradeconfig.mainnet.json
-      - ${PWD}/config/tradeconfig.testnet.json:/root/MultiCurrencyWallet/tradeconfig.testnet.json    
+      - ${PWD}/config:/~/EI-2.0/MulticurrencyWallet/config
+      - ${PWD}/.storage:/~/EI-2.0/MulticurrencyWallet/.storage
+      - ${PWD}/config/tradeconfig.mainnet.json:/~/EI-2.0/MultiCurrencyWallet/tradeconfig.mainnet.json
+      - ${PWD}/config/tradeconfig.testnet.json:/~/EI-2.0/MultiCurrencyWallet/tradeconfig.testnet.json    
     env_file: .env
     ports:
       - "${PORT}:${PORT}"
